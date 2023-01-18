@@ -1,0 +1,96 @@
+{
+  "color": {
+    "layout": {
+      "background": {
+        "value": "{gray.900}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{gray.800}",
+        "type": "color"
+      },
+      "surface-variant": {
+        "value": "{ui.success.500}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "headings": {
+        "value": "{color.white}",
+        "type": "color"
+      },
+      "body": {
+        "value": "{gray.50}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{gray.700}",
+        "type": "color"
+      },
+      "action": {
+        "value": "{ui.success.500}",
+        "type": "color"
+      }
+    },
+    "button": {
+      "primary": {
+        "background": {
+          "value": "{ui.success.400}",
+          "type": "color"
+        },
+        "background-hover": {
+          "value": "{ui.success.600}",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "{color.white}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "background": {
+          "value": "{ui.danger.500}",
+          "type": "color"
+        },
+        "background-hover": {
+          "value": "{ui.danger.400}",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "{ui.danger.900}",
+          "type": "color"
+        }
+      }
+    },
+    "form": {
+      "label": {
+        "default": {
+          "value": "{color.text.body}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{color.text.disabled}",
+          "type": "color"
+        }
+      },
+      "input": {
+        "background": {
+          "value": "{color.layout.background}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{gray.700}",
+          "type": "color"
+        },
+        "placeholder": {
+          "value": "{color.text.disabled}",
+          "type": "color"
+        }
+      }
+    },
+    "placeholder-media": {
+      "value": "{gray.700}",
+      "type": "color"
+    }
+  }
+}
