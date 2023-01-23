@@ -159,17 +159,17 @@
           "type": "color"
         },
         "foreground": {
-          "value": "{color.text.action}",
+          "value": "{brand.secondary.600}",
           "type": "color"
         },
         "foreground-disabled": {
-          "value": "{color.text.action-disabled}",
+          "value": "{brand.secondary.800}",
           "type": "color"
         }
       }
     },
     "placeholder-media": {
-      "value": "{gray.400}",
+      "value": "{brand.primary.800}",
       "type": "color"
     },
     "text": {
@@ -315,6 +315,10 @@
         "value": "{brand.primary.300}",
         "type": "color"
       }
+    },
+    "white": {
+      "value": "#fff",
+      "type": "color"
     }
   },
   "border-radius": {
